@@ -6,6 +6,8 @@ A simple microservices architecture application built with Go that provides user
 
 This application follows a microservices architecture pattern:
 
+![Microservices Architecture](./images/demo.png)
+
 ```
 ┌─────────────────┐    ┌──────────────────┐
 │   API Gateway   │    │   PostgreSQL     │
